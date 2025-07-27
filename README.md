@@ -24,4 +24,4 @@ Dataset
 The model is trained on the Adult Income Dataset(Kaggle)
 Screenshot
 ## **Screenshot**
-![App Screenshot](Screenshot (21).png)
+![App Screenshot]([Screenshot (21).png](https://github.com/heyrajneesh/Employee_Salary_Prediction/blob/main/Screenshot%20(21).png?raw=true))
